@@ -17,7 +17,7 @@
 .idea/sqlDataSources.xml
 .idea/dynamic.xml
 .idea/uiDesigner.xml
-
+__pycache__
 # Gradle:
 .idea/gradle.xml
 .idea/libraries
@@ -27,7 +27,7 @@
 
 ## File-based project format:
 *.iws
-
+db.sqlite3
 ## Plugin-specific files:
 
 # IntelliJ
